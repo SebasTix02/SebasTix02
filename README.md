@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hola, soy Sebastian Tixilema
+## Estudiante de la FISEI en la Universidad Tecnica de Ambato
 
-<!--
-**SebasTix02/SebasTix02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![logo-sitio-fisei-2020](https://user-images.githubusercontent.com/118477596/214365349-70e85435-9765-451f-b03a-31464cf9c6df.png)
 
-Here are some ideas to get you started:
+>Me gusta Programar y los videojuegos, sobretodo los juegos tacticos. 🎮 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>He estudiado Programacion desde que comence el bachillerato. 🤖 
+
+>Me gradue como bachiller en Informatica en el 2020. 👨‍🎓 
+
+### 🛠️ Hasta ahora he realizado varios proyectos estudiantiles tales como:
+
+- Un sistema para controlar los gastos de alimentación de una familia y determinar una dieta adecuada en época de cuarentena (Proyecto Final de graduacion en C#)
+- Una calculdora de matrices para celular. (C#)
+- Un sistema para controlar ingresos y salidas de personal. (C#)
+- Un sistema de control estudiantil. (Java)
+- Un juego de parame la mano. (Java)
+- Entre otros...
+
+### 📲 Los lenguajes que mas conozco son:
+- Java 
+- C#
+- PHP
+
