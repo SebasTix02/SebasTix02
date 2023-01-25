@@ -22,4 +22,9 @@
 - Java 
 - C#
 - PHP
+### Estadisticas
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SebasTix02&theme=highcontrast&locale=es)](https://git.io/streak-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebasTix02&show_icons=true&theme=highcontrast)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebasTix02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
